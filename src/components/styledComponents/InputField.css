@@ -1,0 +1,11 @@
+.input-field-wrapper{
+  display: flex;
+  border: #54607A solid 1px;
+  height: 30px;
+  background: white;
+  padding-left: .3rem;
+}
+
+.custom-input-field{
+  width: 100%;
+}

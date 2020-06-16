@@ -1,0 +1,41 @@
+.review-container{
+  position: relative;
+  min-height: 8rem;
+  background: white;
+  padding: 1rem 0 1rem 1rem;
+  border-left: #13B48E solid 3px;
+  margin-bottom: 1rem;
+  animation: fadeinFromLeft .5s;
+}
+
+@keyframes fadeinFromLeft {
+  from {
+    left: -80px;
+    opacity: 0;
+  }
+  to {
+    left: 0;
+    opacity: 1;
+  }
+}
+
+.review-header-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+
+.review-username{
+  font-weight: 700;
+  margin: 0 1rem;
+}
+
+.ion-md-create,
+.ion-md-trash{
+  padding: 0 2rem 0 1rem;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.ion-md-trash{
+  color: #EB7371;
+}

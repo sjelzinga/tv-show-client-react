@@ -1,0 +1,13 @@
+.signup-wrapper{
+  width: 90%;
+  margin: auto;
+  margin-top:5rem;
+}
+
+.signup-wrapper h1{
+  margin-bottom: 1.5rem;
+}
+
+.signup-input-wrapper{
+  margin-bottom: 1.5rem;
+}

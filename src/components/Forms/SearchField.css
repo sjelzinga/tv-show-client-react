@@ -1,0 +1,32 @@
+.input-field{
+  display: flex;
+  border: #54607A solid 1px;
+  height: 30px;
+  background: white;
+  padding-left: 1rem;
+}
+
+.search-field-input{
+  width: 100%;
+}
+.clear-field-btn{
+  position: absolute;
+  left: 61%;
+  background: transparent;
+  font-size: 1.8rem;
+  color: #54607A;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+
+/* .input-field:focus-within + .icon{
+  color: #54607A;
+} */
+
+.ion-md-search{
+  color: #54607A;
+  font-size: 1.8rem;
+}

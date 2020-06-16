@@ -1,0 +1,29 @@
+export const FETCH_SHOWS = 'FETCH_SHOWS';
+export const FETCH_SHOW = 'FETCH_SHOW';
+
+export const SEARCH_VALUE = 'SEARCH_VALUE';
+export const CLEAR_SEARCH = 'CLEAR_SEARCH';
+export const FILTER_SHOWS = 'FILTER_SHOWS';
+export const CLEAR_FILTER_SHOWS = 'CLEAR_FILTER_SHOWS';
+export const CLEAR_SELECTED_SHOW = 'CLEAR_SELECTED_SHOW';
+
+export const FETCH_REVIEWS = 'FETCH_REVIEWS';
+export const POST_REVIEW = 'POST_REVIEW';
+export const GET_REVIEWS = 'GET_REVIEWS';
+export const DELETE_REVIEW = 'DELETE_REVIEW';
+
+export const CREATE_NEW_USER = 'CREATE_NEW_USER';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+
+export const GET_USER_DETAILS = 'GET_USER_DETAILS';
+export const SET_USER_AUTH = 'SET_USER_AUTH';
+export const ADD_SHOW_TO_USER_LIST = 'ADD_SHOW_TO_USER_LIST';
+export const DELETE_SHOW_FROM_USER_LIST = 'DELETE_SHOW_FROM_USER_LIST';
+export const GET_USER_SHOWS = 'GET_USER_SHOWS';
+
+export const ADD_REVIEW_ID_TO_TVSHOW = 'ADD_REVIEW_ID_TO_TVSHOW';
+export const GET_AVG_RATING = 'GET_AVG_RATING';
+
+// export const POST_RATING = "POST_RATING";
+// export const DELETE_RATING = "DELETE_RATING";

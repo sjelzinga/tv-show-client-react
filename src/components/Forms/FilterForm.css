@@ -1,0 +1,17 @@
+.filter-form{
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 2rem 0 1.5rem;
+  /* margin: 2rem 0; */
+}
+
+.search-field-wrapper{
+  flex-grow: 4;
+  /* margin: 0 2rem 0 0; */
+}
+.search-dropdown-wrapper{
+  flex-grow: 1;
+  /* margin: 0 .5rem 0 9rem; */
+   margin: 0 .5rem 0 4rem;
+}
+

@@ -1,0 +1,18 @@
+.button{
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  transition-duration: .8s;
+  transition-timing-function: cubic-bezier(.09,.39,.35,1.47);
+  font-size: 23px;
+  font-family: sans-serif;
+}
+
+.add{
+  transform: rotate(-180deg)
+}
+
+.delete{
+  color: #EB7371;
+  transform: rotate(45deg)
+}

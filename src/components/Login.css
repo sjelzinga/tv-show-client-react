@@ -1,0 +1,13 @@
+.login-wrapper{
+  width: 90%;
+  margin: auto;
+  margin-top:5rem;
+}
+
+.login-wrapper h1{
+  margin-bottom: 1.5rem;
+}
+
+.login-input-wrapper{
+  margin-bottom: 1.5rem;
+}

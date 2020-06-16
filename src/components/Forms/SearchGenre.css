@@ -1,0 +1,21 @@
+.custom-select select {
+  height: 3rem;
+  width: 100%;
+  font-family: 'Nunito Sans', sans-serif;
+  border: #54607A solid 1px;
+  color: #54607A;
+}
+
+.custom-select select:focus {
+  outline: none;
+}
+
+/* .custom-select select .select-item:hover{
+  background: #54607A !important;
+  color: white;
+} */
+
+
+.custom-select select option {
+  box-shadow: 0 0 10px 100px #54607A inset;
+}

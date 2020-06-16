@@ -1,0 +1,20 @@
+.review-form-wrapper{
+  width: 90%;
+  margin: auto;
+}
+
+.review-form--rating{
+  display: flex;
+  align-items: center;
+}
+
+.review-form-wrapper textarea{
+  width: 100%;
+  min-height: 8rem;
+}
+
+.review-btn-wrapper{
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}

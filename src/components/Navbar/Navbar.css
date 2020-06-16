@@ -1,0 +1,20 @@
+.navbar{
+  /* padding: 0 5rem; */
+}
+
+.navbar ul{
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+}
+
+.nav-list-item{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 90px;
+  color: #54607A;
+  text-decoration: none;
+  cursor: pointer;
+}
